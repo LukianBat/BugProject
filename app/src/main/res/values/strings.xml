@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BugProject</string>
+    <string name="open_me_text">Открой меня</string>
+    <string name="head_text">ШАПКА</string>
+</resources>

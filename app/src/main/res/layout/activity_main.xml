@@ -15,6 +15,6 @@
         android:nestedScrollingEnabled="false"
         app:behavior_hideable="false"
         app:behavior_peekHeight="80dp"
-        app:layout_behavior="@string/bottom_sheet_behavior" />
+        app:layout_behavior=".MyBehavior" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
